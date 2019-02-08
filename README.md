@@ -1,8 +1,5 @@
 # Instructions
 
-## Clone the repo to local
-`git clone https://github.com/sizhechen/rfp.git`
-
 ## Setup DB
 * Install MySql (Xampp) to your local computer, username: root, password: root
 * Start MySql on Xampp
