@@ -1,11 +1,3 @@
-<!--
-Filename:       reset_password.php
-Author:         DongWooKang
-Student Number: 040846528
-Course Name:    Software Development Project
-Course Number:  CST8334_310
-Reference: Forgot Password Recovery in Login System with PHP and MySQL - codexworld. https://www.codexworld.com/login-system-forgot-password-recovery-email-php-mysql
--->
 
 
 <!DOCTYPE html>
